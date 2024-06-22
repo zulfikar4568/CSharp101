@@ -2,7 +2,7 @@ namespace LearnCSharp.Basic
 {
   class LINQ
   {
-    static void Execute()
+    static public void Execute()
     {
       List<int> scores = [67, 89, 78, 85, 55, 103, 88, 45, 25, 68];
 
@@ -47,3 +47,7 @@ namespace LearnCSharp.Basic
     }
   }
 }
+
+// Program.cs
+
+//LearnCSharp.Basic.LINQ.Execute();

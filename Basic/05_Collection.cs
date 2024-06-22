@@ -2,7 +2,7 @@ namespace LearnCSharp.Basic
 {
   class Collection
   {
-    static void Execute()
+    static public void Execute()
     {
       var names = new List<string> { "Alice", "Bob", "Jax" };
 
@@ -39,3 +39,7 @@ namespace LearnCSharp.Basic
     }
   }
 }
+
+// Program.cs
+
+//LearnCSharp.Basic.Collection.Execute();

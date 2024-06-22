@@ -2,7 +2,7 @@ namespace LearnCSharp.Basic
 {
   class Looping
   {
-    static void Execute()
+    static public void Execute()
     {
       int counter = 0;
 

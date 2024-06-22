@@ -2,7 +2,7 @@ namespace LearnCSharp.Basic
 {
   class Number
   {
-    static void Execute()
+    static public void Execute()
     {
       int a = 2147483647; // maximum 2147483647 until -2147483648
       int b = 2147483647;
@@ -26,3 +26,7 @@ namespace LearnCSharp.Basic
     }
   }
 }
+
+// Program.cs
+
+//LearnCSharp.Basic.Number.Execute();

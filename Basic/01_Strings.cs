@@ -24,3 +24,7 @@ namespace LearnCSharp.Basic
     }
   }
 }
+
+// Program.cs
+
+//LearnCSharp.Basic.String.Execute();

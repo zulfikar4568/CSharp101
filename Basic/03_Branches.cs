@@ -2,7 +2,7 @@ namespace LearnCSharp.Basic
 {
   class Branches
   {
-    static void Execute()
+    static public void Execute()
     {
       int a = 2;
       int b = 5;
@@ -28,3 +28,7 @@ namespace LearnCSharp.Basic
     }
   }
 }
+
+// Program.cs
+
+//LearnCSharp.Basic.Branches.Execute();
